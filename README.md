@@ -1,4 +1,3 @@
-# Hospital-ER-Dashboard
 # Final Dashboard of Hospital Emergency Room  
 
 This project is my first data analysis work in Excel as a fresh graduate. The goal was to design a **Hospital Emergency Room Analysis Dashboard** that provides stakeholders with clear insights to improve efficiency, monitor patient flow, and support data-driven decision-making.  
@@ -20,4 +19,4 @@ This project is my first data analysis work in Excel as a fresh graduate. The go
 
 This dashboard highlights how **data analysis and visualization** can be applied in healthcare to optimize emergency room operations, improve patient management, and enhance overall hospital performance.  
 
-![Dashboard Preview]("Final Dashboard of Hospital Emergency Room.png")
+![Dashboard Preview](final_dashboard.png)
