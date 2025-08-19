@@ -20,5 +20,4 @@ This project is my first data analysis work in Excel as a fresh graduate. The go
 
 This dashboard highlights how **data analysis and visualization** can be applied in healthcare to optimize emergency room operations, improve patient management, and enhance overall hospital performance.  
 
-## Dashboard Preview  
-![Dashboard Preview](Final Dashboard of Hospital Emergency Room.png)
+![Dashboard Preview](dashboard_preview.png)
